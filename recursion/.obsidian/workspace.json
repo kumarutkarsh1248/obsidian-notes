@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "bcc19e52969df68a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2263415973f54e81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de5cd2aa1d270aca",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "stock price.canvas",
+                "viewState": {
+                  "x": -313.41000000000014,
+                  "y": 446.51999999999975,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "stock price"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9f905bc23d13fd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "19db5491d22df399",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "732eba4e9fe65ca2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c47ca0e53d2362fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a70a4dc7d0eba1d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c8d3cd2909db17f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "730f720c46befcec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b7a1e8a0df6177f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "stock price.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for stock price"
+            }
+          },
+          {
+            "id": "f1798092507ac208",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "stock price.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from stock price"
+            }
+          },
+          {
+            "id": "72d124bc2cbde9c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ace2b31f73163cd2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "stock price.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of stock price"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "de5cd2aa1d270aca",
+  "lastOpenFiles": [
+    "text.md",
+    "stock price.canvas"
+  ]
+}

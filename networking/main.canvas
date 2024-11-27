@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"a287684c61f0add2","type":"file","file":"text file/1.md","x":-600,"y":-440,"width":1080,"height":420},
+		{"id":"0429d34e9c276b84","type":"text","text":"# computer networking","x":-180,"y":-580,"width":380,"height":80,"color":"1"},
+		{"id":"2a396a16b8d67d23","type":"file","file":"draw/1.png","x":-360,"y":-200,"width":532,"height":230},
+		{"id":"847400b380dab744","type":"file","file":"draw/2.png","x":-600,"y":280,"width":651,"height":400},
+		{"id":"bc49e814ea790966","type":"text","text":"tcp, udc, https\nwill be convered later on","x":265,"y":210,"width":250,"height":60},
+		{"id":"fdc9f75256ce198f","type":"text","text":"**modem** convert analog to digital or vice versa\n**router** manage the digital signals from modem and split it into multiple devices\n\n* only the model is connected is connected to the outer world\n* outer world only knows the ip address of modem","x":60,"y":280,"width":420,"height":220},
+		{"id":"046783a26a94c33e","type":"text","text":"**ip address** => where does your device is located\n\n**port number** => which application you are using to communicate (are 16 bits)\n* some of the ports are reserved\n* HTTP = 80\n* mongoDB 27017\n* SQL 1433\n* so total 0-1023 port are reserved and your application cant use these ports","x":60,"y":513,"width":440,"height":335}
+	],
+	"edges":[]
+}
