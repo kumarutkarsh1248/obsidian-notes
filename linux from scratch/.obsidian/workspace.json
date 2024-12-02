@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "e25a13da8d139dbc",
+    "id": "461e99cafd1a96b8",
     "type": "split",
     "children": [
       {
-        "id": "a45880ba59e9d00f",
+        "id": "fe172bf528759a09",
         "type": "tabs",
         "children": [
           {
-            "id": "95c942655e95054a",
+            "id": "911bec7d370ebb8d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "lectures/L4/week2 L2 slides.pdf"
+                "file": "LFS-12.2-SYSV-BOOK.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "week2 L2 slides"
-            }
-          },
-          {
-            "id": "492a9f3eba315950",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-27 13.52.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-27 13.52.41.excalidraw"
+              "title": "LFS-12.2-SYSV-BOOK"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2427be43fe946110",
+    "id": "508ecf36ecf57fde",
     "type": "split",
     "children": [
       {
-        "id": "effdb4a112f0e41b",
+        "id": "66fffd3e8818a354",
         "type": "tabs",
         "children": [
           {
-            "id": "e2312dcb55ecc15a",
+            "id": "3fa126f90b6d2b40",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +45,7 @@
             }
           },
           {
-            "id": "960510b5aea8f948",
+            "id": "771df70b7ff9ef07",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +62,7 @@
             }
           },
           {
-            "id": "27f5d40cc66725bd",
+            "id": "7bce426ee6c2d59d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,23 +75,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "f7e9bbf5dbfc1cf9",
+    "id": "0147aaa7234d2824",
     "type": "split",
     "children": [
       {
-        "id": "b511a4074156d3ea",
+        "id": "4bdf5a472fd3079a",
         "type": "tabs",
         "children": [
           {
-            "id": "1150d0ac0573a14f",
+            "id": "f660b8d740fdb92b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/L1/slides.md",
+                "file": "LFS-12.2-SYSV-BOOK.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +101,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for slides"
+              "title": "Backlinks for LFS-12.2-SYSV-BOOK"
             }
           },
           {
-            "id": "2a2a564fb3fecfbe",
+            "id": "31814f6000fe0e62",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/L1/slides.md",
+                "file": "LFS-12.2-SYSV-BOOK.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from slides"
+              "title": "Outgoing links from LFS-12.2-SYSV-BOOK"
             }
           },
           {
-            "id": "4fd55740c015b67f",
+            "id": "3e64a9c05b6a0d67",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,15 +132,15 @@
             }
           },
           {
-            "id": "2dbb6b13f540bcc0",
+            "id": "c74e5e9ceaf4a1f4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/L1/slides.md"
+                "file": "LFS-12.2-SYSV-BOOK.pdf"
               },
               "icon": "lucide-list",
-              "title": "Outline of slides"
+              "title": "Outline of LFS-12.2-SYSV-BOOK"
             }
           }
         ]
@@ -171,44 +158,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "492a9f3eba315950",
-  "lastOpenFiles": [
-    "lectures/L4/Drawing 2024-11-29 14.32.11.excalidraw.md",
-    "lectures/L4/week2 L2 slides.pdf",
-    "lectures/L4/Drawing 2024-11-29 14.29.11.excalidraw.md",
-    "external resources.md",
-    "lectures/L4/week2 L2 notes.pdf",
-    "lectures/L3/external pics/Pasted Image 20241128123407_798.png",
-    "lectures/L4",
-    "lectures/L3/external pics",
-    "lectures/L3/week2 L1 slides.pdf",
-    "lectures/L3/main slides.md",
-    "Untitled.canvas",
-    "2.png",
-    "1.png",
-    "Screenshot from 2024-11-28 11-03-58.png",
-    "lectures/L3/week2 L1 notes.pdf",
-    "lectures/L2/main slides.md",
-    "lectures/L3",
-    "lectures/L2/week1 L2.pdf",
-    "lectures/L2/personal notes.md",
-    "lectures/L2/external pics/Pasted Image 20241127155312_136.png",
-    "lectures/L2/external pics",
-    "lectures/L2/notes.pdf",
-    "Excalidraw/Drawing 2024-11-27 13.52.41.excalidraw.md",
-    "lectures/L1/main slides.md",
-    "lectures/L1/main.canvas",
-    "lectures/L1/Drawing 2024-11-26 23.36.00.excalidraw.md",
-    "lectures/L1/Drawing 2024-11-26 16.05.05.excalidraw.md",
-    "draw/Pasted image 20241126154743.png",
-    "draw/1.md",
-    "draw/Pasted Image 20241126154703_056.png",
-    "draw/Pasted image 20241126152126.png",
-    "draw/Pasted image 20241126151646.png",
-    "draw/Pasted image 20241126150842.png",
-    "draw/Drawing 2024-11-26 15.12.31.excalidraw.md"
-  ]
+  "active": "911bec7d370ebb8d",
+  "lastOpenFiles": []
 }

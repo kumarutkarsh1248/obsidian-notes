@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b11e6580117bc496","type":"text","text":"## memoization\n=> top down method","x":-180,"y":-430,"width":250,"height":120},
+		{"id":"76a143f3e3d4b982","type":"text","text":"## tabulation\n=> Bottom up method","x":-180,"y":-220,"width":250,"height":100},
+		{"id":"30445178586b1b2d","type":"text","text":"# 1.  Introduction","x":-620,"y":-310,"width":280,"height":60},
+		{"id":"c2c2c04c94879fc1","type":"text","text":"# 2. 1D DP","x":-600,"y":240,"width":250,"height":60},
+		{"id":"c8b92d4d8e4c77ab","type":"file","file":"striver/dp/code/Q1. 1D DP.md","x":-160,"y":-20,"width":720,"height":240}
+	],
+	"edges":[
+		{"id":"6e164020daadcd3a","fromNode":"30445178586b1b2d","fromSide":"right","toNode":"b11e6580117bc496","toSide":"left"},
+		{"id":"b7af65ac6702f198","fromNode":"30445178586b1b2d","fromSide":"right","toNode":"76a143f3e3d4b982","toSide":"left"},
+		{"id":"595f6e624640f4ef","fromNode":"c2c2c04c94879fc1","fromSide":"right","toNode":"c8b92d4d8e4c77ab","toSide":"left"}
+	]
+}

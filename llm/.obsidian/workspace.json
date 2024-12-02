@@ -8,68 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26a7c8e545b15fc3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "LLM tutorials/L5, working of gpt3/notes.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "notes"
-            }
-          },
-          {
-            "id": "e39dec7bb20387b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "LLM tutorials/L6, stage of building large language model/Drawing 2024-11-23 14.37.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-23 14.37.41.excalidraw"
-            }
-          },
-          {
-            "id": "8c7ad6cf12ad9d3f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "LLM tutorials/L7, Tokenization/draw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "draw"
-            }
-          },
-          {
-            "id": "81197bf0073bcdfe",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "LLM tutorials/L5, working of gpt3/notes.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "notes"
-            }
-          },
-          {
-            "id": "968719535dee63f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Main"
-            }
-          },
-          {
             "id": "d6ef0fe3c847a6fb",
             "type": "leaf",
             "state": {
@@ -79,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +49,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -136,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 345.5
   },
   "right": {
     "id": "b14bf90360b0b644",
@@ -222,18 +159,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81197bf0073bcdfe",
+  "active": "049539d8defd0f0f",
   "lastOpenFiles": [
-    "LLM tutorials/L5, working of gpt3/Pasted Image 20241123130645_961.png",
+    "Main.md",
     "LLM tutorials/L6, stage of building large language model/Drawing 2024-11-23 14.37.41.excalidraw.md",
     "LLM tutorials/L7, Tokenization/draw.md",
+    "LLM tutorials/L5, working of gpt3/notes.md",
     "LLM tutorials/L7, Tokenization/Main.md",
+    "LLM tutorials/L5, working of gpt3/Pasted Image 20241123130645_961.png",
     "Excalidraw",
     "LLM tutorials/L7, Tokenization",
-    "Main.md",
     "LLM tutorials/L4 transformer/Main.md",
     "LLM tutorials/L4 transformer/draw.md",
-    "LLM tutorials/L5, working of gpt3/notes.md",
     "LLM tutorials/L4 transformer",
     "LLM tutorials/L6, stage of building large language model",
     "LLM tutorials/L4/Main.canvas",
